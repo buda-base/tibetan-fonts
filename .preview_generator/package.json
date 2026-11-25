@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenPecha/tibetan-fonts.git"
+    "url": "git+https://github.com/buda-base/tibetan-fonts.git"
   },
   "keywords": [
     "tibetan",
@@ -19,7 +19,7 @@
   "author": "mz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OpenPecha/tibetan-fonts/issues"
+    "url": "https://github.com/buda-base/tibetan-fonts/issues"
   },
-  "homepage": "https://github.com/OpenPecha/tibetan-fonts#readme"
+  "homepage": "https://github.com/buda-base/tibetan-fonts#readme"
 }

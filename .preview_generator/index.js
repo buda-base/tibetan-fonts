@@ -8,7 +8,7 @@ import {readFonts} from './readFonts.js'
 import {getTplParts} from './tpl.js'
 
 
-const repoUrl = 'https://github.com/OpenPecha/tibetan-fonts/'
+const repoUrl = 'https://github.com/buda-base/tibetan-fonts/'
 const repoTree = repoUrl + 'tree/main/'
 
 const CURRENT_DIR = (() => {
